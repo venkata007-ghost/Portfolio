@@ -1,0 +1,49 @@
+---
+title: "Walmart Sales Prediction using ML"
+author: "Venkat"
+date: "2023-04-04"
+categories: [Description,code]
+#image: "loan_qualification.jpg"
+---
+
+![My Image](Walmart-eCommerce-sales-trend.png){alt="My Image"}
+
+DESCRIPTION
+
+Understand the Dataset & cleanup (if required). Build Regression models to predict the sales w.r.t a single & multiple feature. Also evaluate the models & compare their respective scores like R2, RMSE, etc.
+
+## Stractegic Plan of Action:
+
+### We aim to solve the problem statement by creating a plan of action, Here are some of the necessary steps:
+
+1.Data Exploration
+
+2.Exploratory Data Analysis (EDA)
+
+3.Data Pre-processing
+
+4.Data Manipulation
+
+5.Feature Selection/Extraction
+
+6.Predictive Modelling
+
+7.Project Outcomes & Conclusion
+
+Here are some of the key outcomes of the project:
+
+-   The Dataset was quiet small with just 6435 samples & after preprocessing 7.5% of the datasamples were dropped.
+
+-   Visualising the distribution of data & their relationships, helped us to get some insights on the feature-set.
+
+-   The features had high multicollinearity, hence in Feature Extraction step, we shortlisted the appropriate features with VIF Technique.
+
+-   Testing multiple algorithms with default hyperparamters gave us some understanding for various models performance on this specific dataset.
+
+-   It is safe to use multiple regression algorithm performed better than other algorithms, as their scores were quiet comparable & also they're more generalisable.
+
+You can find the Jupyter Notebook file for this project here:
+
+-   
+
+    ## [Walmart Code](https://github.com/venkata007-ghost/walmartsales/blob/master/Walmart%20sales%20prediction%20using%20ML.ipynb)

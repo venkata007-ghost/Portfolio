@@ -1,0 +1,31 @@
+---
+title: "Health Insurance Premium Prediction"
+author: "Venkat"
+date: "2023-03-21"
+categories: [Description,code]
+#image: "loan_qualification.jpg"
+---
+
+![My Image](MedicalImage.png){alt="My Image"}
+
+DESCRIPTION
+
+The amount of the premium for a health insurance policy depends from person to person, as many factors affect the amount of the premium for a health insurance policy. Let\'s say age, a young person is very less likely to have major health problems compared to an older person. Thus, treating an older person will be expensive compared to a young one. That is why an older person is required to pay a high premium compared to a young person.
+
+\
+Just like age, many other factors affect the premium for a health insurance policy. Hope you now have understood what health insurance is and how the premium for a health insurance policy is determined. In the section below, I will take you through the task of health insurance premium prediction with machine learning using Python.\
+Health Insurance Premium Prediction using PythonThe dataset that I am using for the task of health insurance premium prediction is collected from Kaggle. It contains data about:\
+• Medical Charges: Total medical expense charged to the plan for the calendar year\
+• Age: Insurance contractor\'s age, ranging from 18 to 64\
+• Sex: Insurance contractor\'s gender, Male or Female\
+• BMI (Body Mass Index) = Body Mass Index, Weight(Kg)/( Height(m)² )\
+• Children: Number of children covered by the plan/ Number of dependants\
+• Region: The beneficiary\'s residential area in the US. Northeast, Southeast, Northwest, Southwest\
+• Smoker: Whether the insurance contractor is a smoker or not, Yes or No\
+As mentioned, medical charges will be our dependent variable and the rest will be our independent variables.
+
+You can find the Jupyter Notebook file for this project here:
+
+-   
+
+    ## [My Notebook](https://github.com/venkata007-ghost/HealthInsurancePremium/blob/master/HealthInsurancePrediction.ipynb)

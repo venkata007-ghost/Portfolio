@@ -1,0 +1,21 @@
+---
+title: "Movie Recommender for Amazon users"
+author: "Venkat"
+date: "2023-03-21"
+categories: [Description,code]
+#image: "movie_recommender_system.jpg"
+---
+
+![My Image](movie_recommender_system.jpg)
+
+DESCRIPTION
+
+The dataset provided contains movie reviews given by Amazon customers. Reviews were given between May 1996 and July 2014.
+
+Data Dictionary UserID -- 4848 customers who provided a rating for each movie Movie 1 to Movie 206 -- 206 movies for which ratings are provided by 4848 distinct users
+
+You can find the Jupyter Notebook file for this project here:
+
+-   
+
+    ## [My Notebook](https://github.com/venkata007-ghost/DataSceince/blob/main/ML%20projects/amazonmoviesandtvratings/Movie_Recommender_for_Amazon_users.ipynb)

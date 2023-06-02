@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/Machine learning/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projectsdummy/Banking Insights using ML/index.html",
+      "/projectsdummy/Time Series Forecasting using LSTM/index.html",
+      "/projectsdummy/walmart sales prediction using ML/index.html",
+      "/projectsdummy/Real Estate/index.html",
+      "/projectsdummy/Amazonmovierecommender/index.html",
+      "/projectsdummy/Cafe Ocean/index.html",
+      "/projectsdummy/California House prediction/index.html",
+      "/projectsdummy/Health Insurance Premium Prediction/index.html",
+      "/projectsdummy/Healthcare Appointment/index.html",
+      "/projectsdummy/Healthcare Diabetes/index.html",
+      "/projectsdummy/Income Qualification/index.html",
+      "/projectsdummy/Loan Eligibility Prediction/index.html",
+      "/projectsdummy/Mercedes Benz/index.html",
+      "/projectsdummy/Online Retail/index.html",
+      "/projectsdummy/Phising Detector/index.html",
+      "/projectsdummy/SuperStoredataSQL/index.html",
+      "/projectsdummy/Telecommunication/index.html"
+    ]
+  }
+]

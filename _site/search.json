@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Venkata Mani Kumar Uppada",
+    "section": "",
+    "text": "I am a BackendEngineer at 91Social. I have an extensive background working with varied data sets and using advanced analytics to make informed decisions."
+  },
+  {
+    "objectID": "about.html#i-recently-expanded-my-skill-set-to-include-topics-like-quarto-tidymodels-working-in-cross-language-rpython-environment-using-reticulate-and-data-visualizations-using-animation-and-interactivity.-i-love-learning-new-things-constantly-and-sharing-my-knowledge-with-others-in-a-digestible-manner.",
+    "href": "about.html#i-recently-expanded-my-skill-set-to-include-topics-like-quarto-tidymodels-working-in-cross-language-rpython-environment-using-reticulate-and-data-visualizations-using-animation-and-interactivity.-i-love-learning-new-things-constantly-and-sharing-my-knowledge-with-others-in-a-digestible-manner.",
+    "title": "Venkata Mani Kumar Uppada",
+    "section": "I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using reticulate, and data visualizations using animation and interactivity. I love learning new things constantly and sharing my knowledge with others in a digestible manner.",
+    "text": "I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using reticulate, and data visualizations using animation and interactivity. I love learning new things constantly and sharing my knowledge with others in a digestible manner."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Machine Learning Libraries and Frameworks\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 23, 2023\n\n\nVenkat\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 21, 2023\n\n\nVenkat\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 21, 2023\n\n\nvenkat\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Machine learning/index.html",
+    "href": "posts/Machine learning/index.html",
+    "title": "Machine Learning Libraries and Frameworks",
+    "section": "",
+    "text": "An Overview\nMachine learning libraries and frameworks are essential tools for anyone working in the field of data science. They provide pre-built code and functions for various machine learning tasks, such as data preprocessing, model building, and model evaluation. This blog post will provide an overview of some of the most popular machine learning libraries and frameworks, including Scikit-Learn, TensorFlow, PyTorch, and Keras.\n\n\nScikit-Learn\nScikit-Learn is a Python library that provides a wide range of machine learning algorithms, including regression, classification, clustering, and dimensionality reduction. It is built on top of NumPy, SciPy, and Matplotlib, which are popular scientific computing libraries in Python. Scikit-Learn is easy to use and has a simple and consistent API, making it an ideal choice for beginners. It also includes a number of built-in datasets for experimentation and testing.\n\n\nTensorFlow\nTensorFlow is an open-source framework developed by Google for building and training deep learning models. It provides a wide range of tools and features for building and deploying machine learning models, including data preprocessing, model building, and model evaluation. TensorFlow supports both CPU and GPU computing, making it ideal for large-scale deep learning projects. It also has a large and active community, which provides extensive documentation, tutorials, and support.\n\n\nPyTorch\nPyTorch is an open-source deep learning framework developed by Facebook. It provides a dynamic computational graph, which allows for more flexibility in model building compared to other frameworks. PyTorch supports both CPU and GPU computing, making it a good choice for large-scale deep learning projects. It also includes a number of built-in modules for building common deep learning models, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs).\n\n\nKeras\nKeras is a high-level deep learning framework that provides a simple and easy-to-use API for building and training deep learning models. It can be used as a standalone library, or it can be integrated with other frameworks such as TensorFlow and Theano. Keras provides a wide range of pre-built layers and models, making it ideal for rapid prototyping and experimentation. It also supports both CPU and GPU computing, making it a good choice for large-scale deep learning projects.\nConclusion\nMachine learning libraries and frameworks provide essential tools for data scientists and machine learning practitioners. Scikit-Learn, TensorFlow, PyTorch, and Keras are some of the most popular and widely used libraries and frameworks in the field of machine learning. Each library or framework has its own strengths and weaknesses, and choosing the right one depends on the specific requirements of your project. By understanding the capabilities and features of these libraries and frameworks, you can choose the one that best fits your needs and build powerful machine learning models."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n\nshow the code\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBanking Insights using ML\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nApr 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTimeSeries Forecasting Using LSTM\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nApr 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWalmart Sales Prediction using ML\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nApr 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReal Estate Analysis\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMovie Recommender for Amazon users\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCafe Ocean Data Analysis Using R\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalifornia Housing Price Prediction\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHealth Insurance Premium Prediction\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHealthcare Appointment Status\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHealthcare Diabetes\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIncome Qualification Report\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLoan Eligibility Prediction\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMercedes Benz Greener Manufacturing\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOnline Retail\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhishing Detector with LR\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuperstore Sales Analysis\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComcast Telecom Consumer Complaints\n\n\n\nDescription\n\n\ncode\n\n\n\n\n\n\n\nVenkat\n\n\nMar 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projectsdummy/Amazonmovierecommender/index.html",
+    "href": "projectsdummy/Amazonmovierecommender/index.html",
+    "title": "Movie Recommender for Amazon users",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nThe dataset provided contains movie reviews given by Amazon customers. Reviews were given between May 1996 and July 2014.\nData Dictionary UserID – 4848 customers who provided a rating for each movie Movie 1 to Movie 206 – 206 movies for which ratings are provided by 4848 distinct users\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Banking Insights using ML/index.html",
+    "href": "projectsdummy/Banking Insights using ML/index.html",
+    "title": "Banking Insights using ML",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nYou have been provided with a banking dataset that contains marketing insights for various\ncampaigns that were run for the customers for a duration of time. Using your machine learning\nand analytical skills - provide actionable insights that will be useful for the company to plan\nstriking and efficient marketing campaigns for their products.\nAs observed, the Bank Marketing Dataset is unbalanced. And so become tough to perform pretty well the model. Another issue was the Accuracy Paradox that provides a false Accuracy final result. Nevertheless, the Cumulative Accuracy Profile showed that our model is performing very worst. For this case, perhaps more data can help balance the dataset and trying to find one best final result. Perfomance of Model Accuracy: 79.65% Cumulative Accuracy Profile: 55.30%\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Cafe Ocean/index.html",
+    "href": "projectsdummy/Cafe Ocean/index.html",
+    "title": "Cafe Ocean Data Analysis Using R",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nCafe Ocean is a beachside restaurant. It wants to come up with combos that its customers want, to improve sales and provide the best possible service to its customers.\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/California House prediction/index.html",
+    "href": "projectsdummy/California House prediction/index.html",
+    "title": "California Housing Price Prediction",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nBackground of Problem Statement :\nThe US Census Bureau has published California Census Data which has 10 types of metrics such as the population, median income, median housing price, and so on for each block group in California. The dataset also serves as an input for project scoping and tries to specify the functional and nonfunctional requirements for it.\nObjective :\nThe project aims at building a model of housing prices to predict median house values in California using the provided dataset. This model should learn from the data and be able to predict the median housing price in any district, given all the other metrics.\nDistricts or block groups are the smallest geographical units for which the US Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people). There are 20,640 districts in the project dataset.\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Health Insurance Premium Prediction/index.html",
+    "href": "projectsdummy/Health Insurance Premium Prediction/index.html",
+    "title": "Health Insurance Premium Prediction",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nThe amount of the premium for a health insurance policy depends from person to person, as many factors affect the amount of the premium for a health insurance policy. Let's say age, a young person is very less likely to have major health problems compared to an older person. Thus, treating an older person will be expensive compared to a young one. That is why an older person is required to pay a high premium compared to a young person.\n\nJust like age, many other factors affect the premium for a health insurance policy. Hope you now have understood what health insurance is and how the premium for a health insurance policy is determined. In the section below, I will take you through the task of health insurance premium prediction with machine learning using Python.\nHealth Insurance Premium Prediction using PythonThe dataset that I am using for the task of health insurance premium prediction is collected from Kaggle. It contains data about:\n• Medical Charges: Total medical expense charged to the plan for the calendar year\n• Age: Insurance contractor's age, ranging from 18 to 64\n• Sex: Insurance contractor's gender, Male or Female\n• BMI (Body Mass Index) = Body Mass Index, Weight(Kg)/( Height(m)² )\n• Children: Number of children covered by the plan/ Number of dependants\n• Region: The beneficiary's residential area in the US. Northeast, Southeast, Northwest, Southwest\n• Smoker: Whether the insurance contractor is a smoker or not, Yes or No\nAs mentioned, medical charges will be our dependent variable and the rest will be our independent variables.\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Healthcare Appointment/index.html",
+    "href": "projectsdummy/Healthcare Appointment/index.html",
+    "title": "Healthcare Appointment Status",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nA person makes a doctor appointment, receives all the instructions and no-show. Who to blame?\n300k medical appointments and its 15 variables (characteristics) of each. The most important one if the patient show-up or no-show the appointment. Variable names are self-explanatory\nProblem Statement:\nPredict someone to no-show an appointment.\nDataset Description:\nPatientId - Identification of a patient AppointmentID - Identification of each appointment Gender - Male or Female . Female is the greater proportion; woman takes way more care of their health in comparison to man. DataMarcacaoConsulta - The day of the actual appointment, when they have to visit the doctor. DataAgendamento - The day someone called or registered the appointment, this is before appointment of course. Age - How old is the patient. Neighbourhood - Where the appointment takes place. Scholarship - Ture or False observation. This is a broad topic, consider reading this article https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia Hipertension - True or False Diabetes - True or False Alcoholism - True or False Handcap - True or False SMS_received - 1 or more messages sent to the patient No-show - True or False\nProblem Statement:\nBuild a model to accurately predict whether the patients in the dataset have diabetes or not?\nDataset Description:\nThe datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.\nPregnancies: Number of times pregnant Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test BloodPressure: Diastolic blood pressure (mm Hg) SkinThickness: Triceps skin fold thickness (mm) Insulin: 2-Hour serum insulin (mu U/ml) BMI: Body mass index (weight in kg/(height in m)^2) DiabetesPedigreeFunction: Diabetes pedigree function Age: Age (years) Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Healthcare Diabetes/index.html",
+    "href": "projectsdummy/Healthcare Diabetes/index.html",
+    "title": "Healthcare Diabetes",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nThis dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.\nProblem Statement:\nBuild a model to accurately predict whether the patients in the dataset have diabetes or not?\nDataset Description:\nThe datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.\nPregnancies: Number of times pregnant Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test BloodPressure: Diastolic blood pressure (mm Hg) SkinThickness: Triceps skin fold thickness (mm) Insulin: 2-Hour serum insulin (mu U/ml) BMI: Body mass index (weight in kg/(height in m)^2) DiabetesPedigreeFunction: Diabetes pedigree function Age: Age (years) Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Income Qualification/index.html",
+    "href": "projectsdummy/Income Qualification/index.html",
+    "title": "Income Qualification Report",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nIdentify the level of income qualification needed for the families in Latin America.\nProblem Statement Scenario: Many social programs have a hard time ensuring that the right people are given enough aid. It’s tricky when a program focuses on the poorest segment of the population. This segment of the population can’t provide the necessary income and expense records to prove that they qualify.\nIn Latin America, a popular method called Proxy Means Test (PMT) uses an algorithm to verify income qualification. With PMT, agencies use a model that considers a family’s observable household attributes like the material of their walls and ceiling or the assets found in their homes to classify them and predict their level of need.\nWhile this is an improvement, accuracy remains a problem as the region’s population grows and poverty declines.\nThe Inter-American Development Bank (IDB)believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance.\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Loan Eligibility Prediction/index.html",
+    "href": "projectsdummy/Loan Eligibility Prediction/index.html",
+    "title": "Loan Eligibility Prediction",
+    "section": "",
+    "text": "My Image\nDESCRIPTION"
+  },
+  {
+    "objectID": "projectsdummy/Loan Eligibility Prediction/index.html#solution-to-the-problem.",
+    "href": "projectsdummy/Loan Eligibility Prediction/index.html#solution-to-the-problem.",
+    "title": "Loan Eligibility Prediction",
+    "section": "solution to the problem.",
+    "text": "solution to the problem.\n\nBanks also needed a model that would give a very good accuracy score to avoid running after their customers due to refusal to pay their loans on time.\nCustomers also needed fast and urgent replies on there loan approval.\n\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Mercedes Benz/index.html",
+    "href": "projectsdummy/Mercedes Benz/index.html",
+    "title": "Mercedes Benz Greener Manufacturing",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nReduce the time a Mercedes-Benz spends on the test bench.\nProblem Statement Scenario: Since the first automobile, the Benz Patent Motor Car in 1886, Mercedes-Benz has stood for important automotive innovations. These include the passenger safety cell with a crumple zone, the airbag, and intelligent assistance systems. Mercedes-Benz applies for nearly 2000 patents per year, making the brand the European leader among premium carmakers. Mercedes-Benz is the leader in the premium car industry. With a huge selection of features and options, customers can choose the customized Mercedes-Benz of their dreams.\nTo ensure the safety and reliability of every unique car configuration before they hit the road, the company’s engineers have developed a robust testing system. As one of the world’s biggest manufacturers of premium cars, safety and efficiency are paramount on Mercedes-Benz’s production lines. However, optimizing the speed of their testing system for many possible feature combinations is complex and time-consuming without a powerful algorithmic approach.\nYou are required to reduce the time that cars spend on the test bench. Others will work with a dataset representing different permutations of features in a Mercedes-Benz car to predict the time it takes to pass testing. Optimal algorithms will contribute to faster testing, resulting in lower carbon dioxide emissions without reducing Mercedes-Benz’s standards.\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Online Retail/index.html",
+    "href": "projectsdummy/Online Retail/index.html",
+    "title": "Online Retail",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\n\nIt is a critical requirement for business to understand the value derived from a customer. RFM is a method used for analyzing customer value.\nCustomer segmentation is the practice of segregating the customer base into groups of individuals based on some common characteristics such as age, gender, interests, and spending habits\nPerform customer segmentation using RFM analysis. The resulting segments can be ordered from most valuable (highest recency, frequency, and value) to least valuable (lowest recency, frequency, and value).\n\nDataset Description\nThis is a transnational data set which contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique and all-occasion gifts.\n\n\n\n\n\n\n\nVariables\nDescription\n\n\n\n\nInvoiceNo\nInvoice number. Nominal, a six digit integral number uniquely assigned to each transaction. If this code starts with letter ‘c’, it indicates a cancellation\n\n\nStockCode\nProduct (item) code. Nominal, a five digit integral number uniquely assigned to each distinct product\n\n\nDescription\nProduct (item) name. Nominal\n\n\nQuantity\nThe quantities of each product (item) per transaction. Numeric\n\n\nInvoiceDate\nInvoice Date and time. Numeric, the day and time when each transaction was generated\n\n\nUnitPrice\nUnit price. Numeric, product price per unit in sterling\n\n\nCustomerID\nCustomer number. Nominal, a six digit integral number uniquely assigned to each customer\n\n\nCountry\nCountry name. Nominal, the name of the country where each customer resides\n\n\n\n You can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Phising Detector/index.html",
+    "href": "projectsdummy/Phising Detector/index.html",
+    "title": "Phishing Detector with LR",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nBackground of Problem Statement :\nYou are expected to write the code for a binary classification model (phishing website or not) using Python Scikit-Learn that trains on the data and calculates the accuracy score on the test data. You have to use one or more of the classification algorithms to train a model on the phishing website dataset.\nProblem Objective :\nThe dataset is a text file which provides the following resources that can be used as inputs for model building :\nA collection of website URLs for 11000+ websites. Each sample has 30 website parameters and a class label identifying it as a phishing website or not (1 or -1). The code template containing these code blocks: Import modules (Part 1) Load data function + input/output field descriptions The dataset also serves as an input for project scoping and tries to specify the functional and non-functional requirements for it.\nDomain: Cyber Security and Web Mining\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Real Estate/index.html",
+    "href": "projectsdummy/Real Estate/index.html",
+    "title": "Real Estate Analysis",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\n\nA banking institution requires actionable insights into mortgage-backed securities, geographic business investment, and real estate analysis. \nThe mortgage bank would like to identify potential monthly mortgage expenses for each region based on monthly family income and rental of the real estate.\nA statistical model needs to be created to predict the potential demand in dollars amount of loan for each of the region in the USA. Also, there is a need to create a dashboard which would refresh periodically post data retrieval from the agencies.\nThe dashboard must demonstrate relationships and trends for the key metrics as follows: number of loans, average rental income, monthly mortgage and owner’s cost, family income vs mortgage cost comparison across different regions. The metrics described here do not limit the dashboard to these few.\n\nDataset Description\n \n\n\n\n\n\n\n\nVariables\nDescription\n\n\n\n\nSecond mortgage\nHouseholds with a second mortgage statistics\n\n\nHome equity\nHouseholds with a home equity loan statistics\n\n\nDebt\nHouseholds with any type of debt statistics\n\n\nMortgage Costs\nStatistics regarding mortgage payments, home equity loans, utilities, and property taxes\n\n\nHome Owner Costs\nSum of utilities, and property taxes statistics\n\n\nGross Rent\nContract rent plus the estimated average monthly cost of utility features\n\n\nHigh school Graduation\nHigh school graduation statistics\n\n\nPopulation Demographics\nPopulation demographics statistics\n\n\nAge Demographics\nAge demographic statistics\n\n\nHousehold Income\nTotal income of people residing in the household\n\n\nFamily Income\nTotal income of people related to the householder\n\n\n\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/SuperStoredataSQL/index.html",
+    "href": "projectsdummy/SuperStoredataSQL/index.html",
+    "title": "Superstore Sales Analysis",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nSuperstore Sales Analysis & Data Visualisation You will use a real-world Superstore dataset to complete this project. This project intends to evaluate the provided dataset, solve business problems on this dataset and mine information insights. The data for this project will also be shown so that patterns and various categories may be understood more clearly. Project Description This project will train you how to use SQL to analyze a real-world database, how to extract the most useful information from the dataset, how to pre-process the data using Python for improved performance, how to use a structured query language to retrieve useful information from the database, and how to visualize the data using the PowerBI tool.\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Telecommunication/index.html",
+    "href": "projectsdummy/Telecommunication/index.html",
+    "title": "Comcast Telecom Consumer Complaints",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nComcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them a $2.3 million, after receiving over 1000 consumer complaints. The existing database will serve as a repository of public customer complaints filed against Comcast. It will help to pin down what is wrong with Comcast’s customer service.\nYou can find the Jupyter Notebook file for this project here:\n\nMy Notebook"
+  },
+  {
+    "objectID": "projectsdummy/Time Series Forecasting using LSTM/index.html",
+    "href": "projectsdummy/Time Series Forecasting using LSTM/index.html",
+    "title": "TimeSeries Forecasting Using LSTM",
+    "section": "",
+    "text": "My Image\n\n\nDESCRIPTION\nTIME SERIES\nRecurrent Neural networks Time series prediction with LSTMs\n## What is time series data? Collection of data points based on the time they were collected Recorded at regular time intervals\n## What are the applications? Forcasting future time series value The price of something tomorrow, for eg.bitcoins Number of sales during a given season of the year Future heart faliure\n## Proterties time series can have?####  Stationarity:               when the mean and the variance remain constant over time. If the mean is varying over time, then it means time                   series has got a trend. You can avoid that, by log tranformations.\n####     Seasonality:                If there are variations at specific time-frame. Eliminate that using differencing               method.Differencing is a type of tranformation, that accomplishes:                Making a time series stationary                Stabilizing the mean of the time series\n#### Autocorrelation:               Refers to the correlation between the currrent value with a copy from previous time.\n\n## Method we are using  The two most commonly used gated RNNs are Long Short-Term Memory Networks and Gated Recurrent Unit Neural Networks..\nYou can find the Jupyter Notebook file for this project here:\n\nTimeseries"
+  },
+  {
+    "objectID": "projectsdummy/walmart sales prediction using ML/index.html",
+    "href": "projectsdummy/walmart sales prediction using ML/index.html",
+    "title": "Walmart Sales Prediction using ML",
+    "section": "",
+    "text": "My Image\nDESCRIPTION\nUnderstand the Dataset & cleanup (if required). Build Regression models to predict the sales w.r.t a single & multiple feature. Also evaluate the models & compare their respective scores like R2, RMSE, etc."
+  },
+  {
+    "objectID": "projectsdummy/walmart sales prediction using ML/index.html#stractegic-plan-of-action",
+    "href": "projectsdummy/walmart sales prediction using ML/index.html#stractegic-plan-of-action",
+    "title": "Walmart Sales Prediction using ML",
+    "section": "Stractegic Plan of Action:",
+    "text": "Stractegic Plan of Action:\n\nWe aim to solve the problem statement by creating a plan of action, Here are some of the necessary steps:\n1.Data Exploration\n2.Exploratory Data Analysis (EDA)\n3.Data Pre-processing\n4.Data Manipulation\n5.Feature Selection/Extraction\n6.Predictive Modelling\n7.Project Outcomes & Conclusion\nHere are some of the key outcomes of the project:\n\nThe Dataset was quiet small with just 6435 samples & after preprocessing 7.5% of the datasamples were dropped.\nVisualising the distribution of data & their relationships, helped us to get some insights on the feature-set.\nThe features had high multicollinearity, hence in Feature Extraction step, we shortlisted the appropriate features with VIF Technique.\nTesting multiple algorithms with default hyperparamters gave us some understanding for various models performance on this specific dataset.\nIt is safe to use multiple regression algorithm performed better than other algorithms, as their scores were quiet comparable & also they’re more generalisable.\n\nYou can find the Jupyter Notebook file for this project here:\n\nWalmart Code"
+  },
+  {
+    "objectID": "qresume.html",
+    "href": "qresume.html",
+    "title": "venkata Manikumar Uppada",
+    "section": "",
+    "text": "As a highly skilled and experienced Backend Engineer with a passion for data science, I have successfully leveraged my technical skills to transition into the field of data analytics and engineering. With a post-graduation in data science, I possess a strong foundation in statistical analysis, machine learning algorithms, and data visualization techniques.\nOver the course of my two years of experience in back-end engineering, I have developed expertise in designing, developing, and maintaining high-performance, scalable applications and systems. I have a deep understanding of databases, API development, and cloud-based infrastructure, which has enabled me to create efficient data pipelines for data processing and analysis.\nI have experience working with large datasets, and have expertise in SQL, R,Python, Tableau,Power BI and deploying data-driven solutions, optimizing data pipelines, and ensuring data quality and integrity for data analysis and manipulation.\nWith my strong technical background and deep knowledge of data science, I am confident in my ability to contribute to any organization resume here."
+  },
+  {
+    "objectID": "qresume.html#data-analyst91social112021---052023",
+    "href": "qresume.html#data-analyst91social112021---052023",
+    "title": "venkata Manikumar Uppada",
+    "section": "Data Analyst,91Social(11/2021 - 05/2023)",
+    "text": "Data Analyst,91Social(11/2021 - 05/2023)\n\nLending Operations | FinTech |CRED\n\nResponsible for collecting, processing, and analyzing financial data to identify patterns and trends that inform business decisions.\nDeveloped statistical models and forecasting tools to help stakeholders make informed decisions about future investments or business strategies.\nCreated reports and dashboards that summarized findings in a clear and concise manner, using tools such as Tableau and Power BI.\nCommunicated findings to stakeholders, including executives, managers, and other team members.\nIdentified areas where data collection or analysis processes could be improved, and developed strategies to streamline those processes.\nProject management, including experience managing data analysis projects from start to finish\nWorked on designing, developing, and maintaining scalable and reliable data pipelines, data integration processes, and data transformation workflows\nWorked on feature engineering for machine learning, ensuring data quality, and optimized performance.\nIntegrated customer feedback with data science to improve the overall product and services offered. Specifically, I utilized data science techniques such as sentiment analysis, topic modeling, predictive analytics to extract insights from customer feedback. These insights helped to inform product development, marketing strategies, and customer service initiatives. As a result, I was able to increase customer satisfaction, loyalty while also improving the company’s financial performance."
+  },
+  {
+    "objectID": "qresume.html#back-end-engineer-91social-052021---112021",
+    "href": "qresume.html#back-end-engineer-91social-052021---112021",
+    "title": "venkata Manikumar Uppada",
+    "section": "Back-end Engineer, 91Social (05/2021 - 11/2021)",
+    "text": "Back-end Engineer, 91Social (05/2021 - 11/2021)\n\nLending Operations | FinTech | CRED\n\nImproved performance and reliability of databases, web services and other integration’s.\nDeveloped and maintained core product services, libraries and frameworks.\nDeployed cloud infrastructure and distributed systems on AWS.\nCollaborated with other teams on security, automation and internal tools.\nIntegrated third-party APIs from external applications into web platforms.\nAuthored code in Python and JavaScript within Django framework.\nBuilt APIs and data clients to consume APIs.\nDeveloped server-side logic in Python and JavaScript.\nManaged efficient SQL queries and data transport.\nUsed python, JavaScript, AWS, Rest APIs, JIRA, Retool, Tableau, SQL\nExplained technical trade-offs of different approaches to stakeholders and estimated development time required."
+  },
+  {
+    "objectID": "qresume.html#skills",
+    "href": "qresume.html#skills",
+    "title": "venkata Manikumar Uppada",
+    "section": "Skills",
+    "text": "Skills\nAs a Back-end Engineer, my skill set includes the following:\n\nProficiency in programming languages such as Python, Java and R\nExperience with web frameworks such as  Django,spring(Basic)\nKnowledge of database management systems such as Oracle, MySQL and PostgreSQL\nFamiliarity with version control systems such as Git\nExperience with cloud computing platforms such as AWS \nKnowledge of RESTful API design and development\nExperience with JIRA Ticketing Tool and Tableau\nFamiliarity with serverless architecture and microservices(Excel)\n\nCurrently, I am learning related to data science, including:\n\nMachine learning algorithms and libraries such as scikit-learn and TensorFlow\nData visualization tools such as Matplotlib and Seaborn\nData cleaning and preprocessing techniques\nNatural Language Processing (NLP)\nDeep Learning\n\nIn the future, I plan to brush up on the following:\n\nAdvanced machine learning techniques such as neural networks and reinforcement learning\nBig data technologies such as Hadoop and Spark\nAdvanced database management and optimization techniques\nCloud-native development and deployment practices\nSecurity best practices for web applications and APIs"
+  }
+]

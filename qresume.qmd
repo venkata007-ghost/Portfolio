@@ -1,0 +1,200 @@
+---
+title: "venkata Manikumar Uppada"
+subtitle: "Data Science resume built with R Quarto markdown"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  eval = TRUE,
+  message = FALSE,
+  warning = FALSE,
+  fig.align = "center"
+)
+```
+
+As a highly skilled and experienced Backend Engineer with a passion for data science, I have successfully leveraged my technical skills to transition into the field of data analytics and engineering. With a post-graduation in data science, I possess a strong foundation in statistical analysis, machine learning algorithms, and data visualization techniques.
+
+Over the course of my two years of experience in back-end engineering, I have developed expertise in designing, developing, and maintaining high-performance, scalable applications and systems. I have a deep understanding of databases, API development, and cloud-based infrastructure, which has enabled me to create efficient data pipelines for data processing and analysis.
+
+I have experience working with large datasets, and have expertise in SQL, R,Python, Tableau,Power BI and deploying data-driven solutions, optimizing data pipelines, and ensuring data quality and integrity for data analysis and manipulation.
+
+With my strong technical background and deep knowledge of data science, I am confident in my ability to contribute to any organization resume [here](https://github.com/venkata007-ghost/DataSceince/blob/main/Venkata_ManiKumarUppadaResume.pdf).
+
+# Education
+
+2022 - 2023
+
+Post Graduation Data Science
+
+Simplilearn Alumni \| Purdue University & IBM
+
+2015 - 2019
+
+B.Tech Electrical & Electronics Engineering
+
+S R K R Engineering college \| Andhra University A.P
+
+<hr>
+
+```{r}
+#| column: screen
+
+library(tidyverse)
+library(gtrendsR)
+library(showtext)
+library(ggthemes)
+library(cowplot)
+library(magick)
+library(ggimage)
+theme_set(theme_cowplot())
+
+#font_add(family = "BloodyTerror-GOW9Z.ttf", regular = "BloodyTerror-GOW9Z.ttf")
+showtext_auto()
+
+# wednesday_search<-gtrendsR::gtrends(
+#   keyword= c("Wednesday Addams"),
+#   time = "today 1-m"
+# )
+# 
+# wednesday_hits <- wednesday_search$interest_over_time %>% 
+#   mutate(date=as.Date(date),
+#          hits = replace_na(as.numeric(hits),0))
+# 
+# writexl::write_xlsx(wednesday_hits, "wednesday_hits.xlsx")
+
+#wednesday_hits <- readxl::read_xlsx("wednesday_hits.xlsx")
+
+
+#wednesday_chart <- wednesday_hits %>% 
+ # ggplot(aes(x = date, y = hits)) +
+  #geom_area(color = "red", alpha = 1, size = 1)  + 
+  #theme_minimal() +
+  #theme(text = element_text(family = "BloodyTerror-GOW9Z.ttf")) +
+  #labs(x = "", 
+   #    y = "",
+  #     title = "Google hits over time!!!") +
+  #theme(title = element_text(color = "gray4", size = 40))  
+
+#wednesdayadams2 <- image_read2("WA_screenshot_serious.png")
+
+#ggdraw() +
+#  draw_plot(wednesday_chart) +
+#  draw_image(wednesdayadams2, x = 0.9, y = 0.9, hjust = 1, vjust = 1, width #= 0.13, height = 0.4) 
+
+```
+
+# Experience
+
+## Data Analyst,91Social(11/2021 - 05/2023)
+
+#### Lending Operations \| FinTech \|CRED
+
+-   Responsible for collecting, processing, and analyzing financial data to identify patterns and trends that inform business decisions.
+
+-   Developed statistical models and forecasting tools to help stakeholders make informed decisions about future investments or business strategies.
+
+-   Created reports and dashboards that summarized findings in a clear and concise manner, using tools such as Tableau and Power BI.
+
+-   Communicated findings to stakeholders, including executives, managers, and other team members.
+
+-   Identified areas where data collection or analysis processes could be improved, and developed strategies to streamline those processes.
+
+-   Project management, including experience managing data analysis projects from start to finish
+
+-   Worked on designing, developing, and maintaining scalable and reliable data pipelines, data integration processes, and data transformation workflows
+
+-   Worked on feature engineering for machine learning, ensuring data quality, and optimized performance.
+
+-   Integrated customer feedback with data science to improve the overall product and services offered. Specifically, I utilized data science techniques such as sentiment analysis, topic modeling, predictive analytics to extract insights from customer feedback. These insights helped to inform product development, marketing strategies, and customer service initiatives. As a result, I was able to increase customer satisfaction, loyalty while also improving the company's financial performance.
+
+## Back-end Engineer, 91Social (05/2021 - 11/2021)
+
+#### Lending Operations \| FinTech \| CRED
+
+-   Improved performance and reliability of databases, web services and other integration's.
+
+-   Developed and maintained core product services, libraries and frameworks.
+
+-   Deployed cloud infrastructure and distributed systems on AWS.
+
+-   Collaborated with other teams on security, automation and internal tools.
+
+-   Integrated third-party APIs from external applications into web platforms.
+
+-   Authored code in Python and JavaScript within Django framework.
+
+-   Built APIs and data clients to consume APIs.
+
+-   Developed server-side logic in Python and JavaScript.
+
+-   Managed efficient SQL queries and data transport.
+
+-   Used python, JavaScript, AWS, Rest APIs, JIRA, Retool, Tableau, SQL
+
+-   Explained technical trade-offs of different approaches to stakeholders and estimated development time required.
+
+# Certifications
+
+![](images/Google%20Analytics%20for%20Beginners.jpg){width="200"}
+
+![](images/Advanced%20Google%20Analytics.jpg){width="200"}
+
+![](images/Google%20Analytics%20360.jpg){width="200"}
+
+![](images/Google%20Analytics%20for%20Power%20Users.jpg){width="200"}
+
+![](images/Google%20Analytics%20Data%20Studio.jpg){width="200"}
+
+![](images/Google%20Tag%20Manager.jpg){width="200"}
+
+## ![](images/purdue.jpg){width="200"}![](images/AU%20certificate.jpeg){width="280"}
+
+## Skills
+
+As a Back-end Engineer, my skill set includes the following:
+
+-   Proficiency in programming languages such as Python, Java and R
+
+-   Experience with web frameworks such as  Django,spring(Basic)
+
+-   Knowledge of database management systems such as Oracle, MySQL and PostgreSQL
+
+-   Familiarity with version control systems such as Git
+
+-   Experience with cloud computing platforms such as AWS 
+
+-   Knowledge of RESTful API design and development
+
+-   Experience with JIRA Ticketing Tool and Tableau
+
+-   Familiarity with serverless architecture and microservices(Excel)
+
+Currently, I am learning related to data science, including:
+
+-   Machine learning algorithms and libraries such as scikit-learn and TensorFlow
+
+-   Data visualization tools such as Matplotlib and Seaborn
+
+-   Data cleaning and preprocessing techniques
+
+-   Natural Language Processing (NLP)
+
+-   Deep Learning
+
+In the future, I plan to brush up on the following:
+
+-   Advanced machine learning techniques such as neural networks and reinforcement learning
+
+-   Big data technologies such as Hadoop and Spark
+
+-   Advanced database management and optimization techniques
+
+-   Cloud-native development and deployment practices
+
+-   Security best practices for web applications and APIs
+
+# About this resume
+
+-   Created by [Venkata Manikumar Uppada](https://github.com/venkata007-ghost/DataSceince/blob/main/venkataDSResume)
+-   Packages used: Quarto, Tidyverse, gtrendsR, showtext, ggthemes, cowplot, magick, ggimage

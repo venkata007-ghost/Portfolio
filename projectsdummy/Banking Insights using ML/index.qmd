@@ -1,0 +1,27 @@
+---
+title: "Banking Insights using ML"
+author: "Venkat"
+date: "2023-04-04"
+categories: [Description,code]
+#image: "loan_qualification.jpg"
+---
+
+![My Image](Banking.jpg){alt="My Image"}
+
+DESCRIPTION
+
+You have been provided with a banking dataset that contains marketing insights for various
+
+campaigns that were run for the customers for a duration of time. Using your machine learning
+
+and analytical skills - provide actionable insights that will be useful for the company to plan
+
+striking and efficient marketing campaigns for their products.
+
+As observed, the Bank Marketing Dataset is unbalanced. And so become tough to perform pretty well the model. Another issue was the Accuracy Paradox that provides a false Accuracy final result. Nevertheless, the Cumulative Accuracy Profile showed that our model is performing very worst. For this case, perhaps more data can help balance the dataset and trying to find one best final result. Perfomance of Model Accuracy: 79.65% Cumulative Accuracy Profile: 55.30%
+
+You can find the Jupyter Notebook file for this project here:
+
+-   
+
+    ## [My Notebook](https://github.com/venkata007-ghost/Bank-Insights-using-ML/blob/main/Banking%20insights%20using%20ML.ipynb)

@@ -1,0 +1,25 @@
+---
+title: "Venkata Mani Kumar Uppada"
+image: 129.JPG
+about: 
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Venkatagrit
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/venkatamanikumaruppada/
+    - icon: github
+      text: Github
+      href: https://github.com/venkata007-ghost/DataSceince
+    - icon: envelope
+      text: Contact me
+      href: mailto:venkatamanikumaru@gmail.com
+---
+
+I am a BackendEngineer at 91Social. I have an extensive background working with varied data sets and using advanced analytics to make informed decisions.
+
+## I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using reticulate, and data visualizations using animation and interactivity. I love learning new things constantly and sharing my knowledge with others in a digestible manner.

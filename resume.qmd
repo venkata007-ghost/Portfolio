@@ -1,0 +1,7 @@
+<iframe width="1100" height="800" src="images\Venkata_ManiKumar_Uppada_Resume.pdf">
+
+</iframe>
+
+---
+page-layout: full
+---

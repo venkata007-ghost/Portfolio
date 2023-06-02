@@ -1,0 +1,19 @@
+---
+title: "Comcast Telecom Consumer Complaints"
+author: "Venkat"
+date: "2023-03-21"
+categories: [Description,code]
+#image: "loan_qualification.jpg"
+---
+
+![My Image](comcast.jpeg)
+
+DESCRIPTION
+
+Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them a \$2.3 million, after receiving over 1000 consumer complaints. The existing database will serve as a repository of public customer complaints filed against Comcast. It will help to pin down what is wrong with Comcast's customer service.
+
+You can find the Jupyter Notebook file for this project here:
+
+-   
+
+    ## [My Notebook](https://github.com/venkata007-ghost/DataSceince/blob/main/pythonprojectsds/Telecom_complaints/comcast_Telecom_complaints_data.ipynb)

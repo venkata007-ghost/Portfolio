@@ -1,0 +1,19 @@
+---
+title: "Cafe Ocean Data Analysis Using R"
+author: "Venkat"
+date: "2023-03-21"
+categories: [Description,code]
+#image: "movie_recommender_system.jpg"
+---
+
+![My Image](cafe.jpg)
+
+DESCRIPTION
+
+Cafe Ocean is a beachside restaurant. It wants to come up with combos that its customers want, to improve sales and provide the best possible service to its customers.
+
+You can find the Jupyter Notebook file for this project here:
+
+-   
+
+    ## [My Notebook](https://github.com/venkata007-ghost/DataSceince/blob/main/R%20projects/R/cafe_ocean.R)

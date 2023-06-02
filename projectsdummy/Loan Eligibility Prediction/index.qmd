@@ -1,0 +1,31 @@
+---
+title: "Loan Eligibility Prediction"
+author: "Venkat"
+date: "2023-03-21"
+categories: [Description,code]
+#image: "loan_qualification.jpg"
+---
+
+![My Image](Loan-Eligibility.jpg){alt="My Image"}
+
+DESCRIPTION
+
+### Loan Eligibility Prediction Using Machine
+
+Learing Algorithms Loan Eligibility in broad terms means your ability / capacity to avail the loan from lender banks/NBFCs. It's the measurement tool of the banks to decide to lend what quantum of funds on the basis of your financial credentials (Financialcredentials means your income), other obligations,additional source of income, etc.
+
+### Problem / Objective Statement.
+
+1.  The informations / critera needed to get an approval for loan takes alot of time for verification. The reason was because people had to verify the documents provided by customers one after the order. So building a machine learning model was the perfect
+
+## solution to the problem.
+
+2.  Banks also needed a model that would give a very good accuracy score to avoid running after their customers due to refusal to pay their loans on time.
+
+3.  Customers also needed fast and urgent replies on there loan approval.
+
+You can find the Jupyter Notebook file for this project here:
+
+-   
+
+    ## [My Notebook](https://github.com/venkata007-ghost/Loan-Eligibility-prediction/blob/master/LoanEligibilityPrediction.ipynb)

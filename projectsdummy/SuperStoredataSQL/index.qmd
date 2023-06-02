@@ -1,0 +1,20 @@
+---
+title: "Superstore Sales Analysis"
+author: "Venkat"
+date: "2023-03-21"
+categories: [Description,code]
+#image: "loan_qualification.jpg"
+---
+
+
+![My Image](superstore.png)
+
+DESCRIPTION
+
+Superstore Sales Analysis & Data Visualisation
+You will use a real-world Superstore dataset to complete this project. This project intends to evaluate the provided dataset, solve business problems on this dataset and mine information insights. The data for this project will also be shown so that patterns and various categories may be understood more clearly. Project Description This project will train you how to use SQL to analyze a real-world database, how to extract the most useful information from the dataset, how to pre-process the data using Python for improved performance, how to use a structured query language to retrieve useful information from the database, and how to visualize the data using the PowerBI tool.
+
+You can find the Jupyter Notebook file for this project here:
+
+- [My Notebook](https://github.com/venkata007-ghost/DataSceince/blob/main/pythonprojectsds/SuperstoredataSQL/Superstore_data.ipynb)
+---

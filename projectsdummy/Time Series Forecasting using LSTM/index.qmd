@@ -1,0 +1,29 @@
+---
+title: "TimeSeries Forecasting Using LSTM"
+author: "Venkat"
+date: "2023-04-04"
+categories: [Description,code]
+#image: "loan_qualification.jpg"
+---
+
+![My Image](LSTM_TS.png){alt="My Image"}
+
+DESCRIPTION
+
+TIME SERIES
+
+Recurrent Neural networks Time series prediction with LSTMs
+
+**\## What is time series data?** Collection of data points based on the time they were collected Recorded at regular time intervals\
+**\## What are the applications?** Forcasting future time series value The price of something tomorrow, for eg.bitcoins Number of sales during a given season of the year Future heart faliure\
+**\## Proterties time series can have?####  Stationarity:**               when the mean and the variance remain constant over time. If the mean is varying over time, then it means time                   series has got a trend. You can avoid that, by log tranformations.\
+**\####     Seasonality:**                If there are variations at specific time-frame. Eliminate that using differencing               method.Differencing is a type of tranformation, that accomplishes:                Making a time series stationary                Stabilizing the mean of the time series\
+**\#### Autocorrelation:**               Refers to the correlation between the currrent value with a copy from previous time.\
+\
+**\## Method we are using**  The two most commonly used gated RNNs are Long Short-Term Memory Networks and Gated Recurrent Unit Neural Networks..
+
+You can find the Jupyter Notebook file for this project here:
+
+-   
+
+    ## [Timeseries](https://github.com/venkata007-ghost/TimeSeries-Forecasting-using-LSTM/blob/main/Time%20Series%20Forecasting%20using%20LSTM.ipynb)

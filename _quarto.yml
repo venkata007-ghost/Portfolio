@@ -1,0 +1,61 @@
+project:
+  type: website
+
+website:
+  title: "Venkata Mani Kumar Uppada"
+  favicon: "images/129.JPG"
+
+  page-footer:
+    center: |
+      [Contact Venkata ManiKumar Uppada](mailto:venkatamanikumaru@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Github Code Repo](https://github.com/venkata007-ghost/portfolio)
+    background: "#2780e3"
+    
+  
+  navbar:
+  
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: Venkata resume
+        href: qresume.qmd
+        
+    right:
+      - text: About
+        href: about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+        
+  search: 
+    location: navbar
+    type: overlay
+        
+format:
+  html:
+    theme:
+      light: [cosmo, theme_light_custom.scss] 
+      dark: [cosmo, theme_dark_custom.scss]
+    css: styles.css
+    citations-hover: true
+    code-link: true
+    code-summary: "show the code"
+    code-fold: true
+    code-tools: false
+    highlight-style: github
+    code-block-bg: "lightblue"
+    code-block-border-left: "#31BAE9"
+     
+   # css: styles.css
+  
+
+editor: visual
+
